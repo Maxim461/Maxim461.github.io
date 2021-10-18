@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style_programs.css">
+    <title>IT Программист</title>
+    <link rel="icon"href="C:\IT Programmer\Picture\logo_1.png"type="png/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+    <header>
+        <img class="logo" src="Picture/logo_2.png">
+
+        <a href="#" class="it-programer">IT Programmer</a>
+        <div class="button">
+            <a href="#">Новости</a>
+            <a href="#">Обучение</a>
+            <a href="#">Программы</a>
+            <a href="#">Питание</a>
+            <a href="#">Сон</a>
+        </div>
+        <a href="#" class="hints">Подсказки</a>
+    </header>
+
+    <main>
+<br>
+        <div class="border">
+            <h2>Visual Studio</h2>
+        </div>
+        <div class="line"></div> 
+        <div class="border">
+            <div class="color">   
+                <p>Visual Studio — мощная среда для разработки приложений, включающая в себя широкий набор функциональных инструментов. Поддерживает все популярные языки, среди которых: C++, JavaScript, Visual Basic, AJAX, Python, TypeScript и так далее. Содержит средства статического анализа исходного кода и его комплексной отладки. Вы сможете создавать программное обеспечение под операционные системы Windows, Linux, Mac OS и для мобильных устройств под управлением Android и iOS. Доступна совместная работа над одним проектом с разных компьютеров в режиме реального времени.</p>
+                <br>
+            </div>
+        </div>
+<br>
+        <div class="border">
+            <h2>IntelliJ IDEA</h2>
+        </div>
+        <div class="line"></div> 
+        <div class="border">
+            <div class="color">   
+                <p>IntelliJ IDEA — отличается наличием самых мощных инструментов для создания коммерческих, мобильных и веб-приложений. Получает регулярные обновления от сайта разработчиков. Имеется в своём арсенале полезные средства анализа качества и автодополнения кода. В список совместимых языков входят: JS, Java, HTML, Groovy, CSS, XML, ActionScript, Scala, CoffeeScript, Perl5, Erlang, Fantom, Lua, OCaml, GLSL, Haskell и многие другие. Присутствует поддержка таких серверов приложений, как WebLogic, Virgo, GlassFish, WebSphere, Tomcat, TomEE, JBoss, Resin, Jetty, Geronimo. Доступна работа с базами данных и SQL-файлами.</p>
+                <br>
+            </div>
+        </div>
+<br>
+        <div class="border">
+            <h2>HiAsm</h2>
+        </div>
+        <div class="line"></div> 
+        <div class="border">
+            <div class="color">   
+                <p>HiAsm — современный конструктор приложений с богатым набором функций. Вы сможете легко и быстро сделать программу, даже без наличия высокого уровня знаний тех или иных языков. Использование софта не вызывает нареканий. Присутствует русскоязычная локализация и удобный подсказчик. Перед вами откроется обширная библиотека компонентов, которые можно соединять друг с другом в цельные конструкции и схемы. Доступно встраивание графических элементов и звуков. Стандартный функционал утилиты можно расширять посредством подключения модулей и пакетов, соответственно, у вас появится возможность создания собственных приложений практически для любой ОС. Работа идет по принципу объектно-ориентированного программирования. Обратите внимание на онлайн-версию HiOn, с помощью которой можно собирать схемы прямо в браузере, в том числе с разных смартфонов и планшетов. Доступен репост скриншотов рабочего процесса в популярные социальные сети.</p>
+                <br>
+            </div>
+        </div>
+<br>
+        <div class="border">
+            <h2>Game Editor</h2>
+        </div>
+        <div class="line"></div> 
+        <div class="border">
+            <div class="color">   
+                <p>Arduino IDE позволит разработать программу для управления автоматическими устройствами, такими как: светодиоды, реле, микроконтроллеры или электромоторы. Содержит опции экспорта, сохранения, поиска и замены скетчей. Присутствует продвинутый компилятор и модуль для загрузки новых прошивок платы.</p>
+                <br>
+            </div>
+        </div>
+<br>
+        <div class="border">
+            <h2>Turbo Pascal</h2>
+        </div>
+        <div class="line"></div> 
+        <div class="border">
+            <div class="color">   
+                <p>Turbo Pascal от компании Borland — интегрированная среда разработки ПО для DOS и Windows ОС на известном языке Паскаль. Включает в себя компилятор, отладчик, командную строку и встроенную систему библиотек. Специально для начинающих программистов, имеется контекстная справка, позволяющая изучать язык без обращения к сторонним источникам.</p>
+                <br>
+            </div>
+        </div>
+<br>   
+    </main>
+    <footer class="footer">
+        <div class="setting-footer_contacts">
+            <p class="contacts">Контакты:</p>
+            <p class="vk">ВКонтакте: https://vk.com/id210749088</p>
+            <p class="telegram">Telegram: https://t.me/maximleeprog</p>
+        </div>
+
+        <div class="setting-footer-pictures">
+            <img src="Picture/vk.png">
+            <img src="Picture/telegram.png">
+        </div>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+*{padding: 0;margin: 0;border: 0;}/*обнулярка*/
+/*Чёрная полоска сверху*/
+header{
+    background-color: black;/*Фон в header*/
+    height: 76px;/*Высота*/
+    width: 100%;/*Ширина*/
+    text-align: center;/*текст встаёт по центру*/
+    font-family: 'Roboto', sans-serif;/*шрифт*/
+}
+/*Логотип*/
+.logo{
+    position: relative;/*даётся доступ к измению местоположения*/
+    top: 20%;/*вниз*/
+    right: 35%;/*вправо*/
+}
+/*IT Programmer*/
+.it-programer{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    color:rgb(255, 255, 255);/*изменение цвета текста*/
+    top: 1%;/*вниз*/
+    font-size: 23px;/*размер*/
+    right: 35%;/*вправо*/
+}
+/*Кнопки*/
+.button a{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    color:rgb(255, 255, 255);/*изменение цвета текста */
+    top: -25px;/*вниз*/
+    margin-right: 1%;/*отступ в право*/
+    font-size: 20px;/*размер*/ 
+}
+/*Подсказки*/
+.hints{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    color:rgb(255, 255, 255);/*изменение цвета текста*/
+    top: -67%;/*вниз*/
+    font-size: 20px;/*размер*/
+    left: 35%;/*влево*/
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/*Меню*/
+main{
+    font-family: 'Roboto', sans-serif;/*шрифт*/
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/*Блок*/
+.border{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    top: 25%;
+    width: 50%;
+    height: 25%;
+    left: 25%;
+    border: 5px solid black;/*ширина и цвет рамки*/
+}
+/**/
+.line{
+    border-bottom: 4px solid white;
+}
+/**/
+h2{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+/**/
+.color{
+    background-color: black;
+    color: white;
+}
+li{
+    margin-left: 1%;
+}
+p{
+    margin-left: 1%;
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/**/
+.footer{
+    font-family: 'Roboto', sans-serif;/*шрифт*/
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/*Контакты*/
+.contacts{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    text-align: justify;/*текст встаёт ровно*/
+    color: white;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+/*ВКонтакте*/
+.vk{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    text-align: justify;/*текст встаёт ровно*/
+    color: white;
+    margin-left: 5%;
+}
+/*Telegram*/
+.telegram{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    text-align: justify;/*текст встаёт ровно*/
+    color: white;
+    margin-left: 5%;
+}
+/*Картинки*/
+.setting-footer-pictures{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    margin-left: 23%;   
+    margin-top: -2%; 
+}
