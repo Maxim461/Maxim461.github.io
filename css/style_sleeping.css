@@ -1,0 +1,173 @@
+*{padding: 0;margin: 0;border: 0;}/*обнулярка*/
+/*Чёрная полоска сверху*/
+header{
+    background-color: black;/*Фон в header*/
+    height: 76px;/*Высота*/
+    width: 100%;/*Ширина*/
+    text-align: center;/*текст встаёт по центру*/
+    font-family: 'Roboto', sans-serif;/*шрифт*/
+}
+/*Логотип*/
+.logo{
+    position: relative;/*даётся доступ к измению местоположения*/
+    top: 20%;/*вниз*/
+    right: 35%;/*вправо*/
+}
+/*IT Programmer*/
+.it-programer{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    color:rgb(255, 255, 255);/*изменение цвета текста*/
+    top: 1%;/*вниз*/
+    font-size: 23px;/*размер*/
+    right: 35%;/*вправо*/
+}
+/*Кнопки*/
+.button a{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    color:rgb(255, 255, 255);/*изменение цвета текста */
+    top: -25px;/*вниз*/
+    margin-right: 1%;/*отступ в право*/
+    font-size: 20px;/*размер*/ 
+}
+/*Подсказки*/
+.hints{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    color:rgb(255, 255, 255);/*изменение цвета текста*/
+    top: -67%;/*вниз*/
+    font-size: 20px;/*размер*/
+    left: 35%;/*влево*/
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/*Меню*/
+main{
+    font-family: 'Roboto', sans-serif;/*шрифт*/
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/*Блок*/
+.border{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    top: 25%;
+    width: 50%;
+    height: 25%;
+    left: 25%;
+    border: 5px solid black;/*ширина и цвет рамки*/
+}
+/**/
+.line{
+    border-bottom: 4px solid white;
+}
+/**/
+h2{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+/**/
+.color{
+    background-color: black;
+    color: white;
+}
+li{
+    margin-left: 1%;
+}
+p{
+    margin-left: 1%;
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/*Меню*/
+main{
+    font-family: 'Roboto', sans-serif;/*шрифт*/
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/*Блок*/
+.border{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    top: 25%;
+    width: 50%;
+    height: 25%;
+    left: 25%;
+    border: 5px solid black;/*ширина и цвет рамки*/
+}
+/**/
+.line{
+    border-bottom: 4px solid white;
+}
+/**/
+h2{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+/**/
+.color{
+    background-color: black;
+    color: white;
+}
+li{
+    margin-left: 1%;
+}
+p{
+    margin-left: 1%;
+}
+ol{
+    margin-left: 1%;
+}
+/*-----------------------------------------------------------------------------------*/
+
+/**/
+.footer{
+    font-family: 'Roboto', sans-serif;/*шрифт*/
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+/*Контакты*/
+.contacts{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    text-align: justify;/*текст встаёт ровно*/
+    color: white;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+/*ВКонтакте*/
+.vk{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    text-align: justify;/*текст встаёт ровно*/
+    color: white;
+    margin-left: 5%;
+}
+/*Telegram*/
+.telegram{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    text-align: justify;/*текст встаёт ровно*/
+    color: white;
+    margin-left: 5%;
+}
+/*Картинки*/
+.setting-footer-pictures{
+    text-decoration: none;/*даётся доступ к изменению деталей*/
+    position: relative;/*даётся доступ к измению местоположения*/
+    margin-left: 23%;   
+    margin-top: -2%; 
+}
